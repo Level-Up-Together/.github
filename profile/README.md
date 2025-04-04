@@ -62,7 +62,7 @@
 ### 🕸️ Snake Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Pink-Spider/Pink-Spider/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/dev-minimalism/dev-minimalism/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
