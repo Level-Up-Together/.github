@@ -69,7 +69,7 @@
 -->
 ---
 
-<!--### ⏱️ Weekly Coding Stats (via Wakatime)-->
+### ⏱️ Weekly Coding Stats (via Wakatime)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
