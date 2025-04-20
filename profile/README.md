@@ -61,9 +61,8 @@
 
 ### 🕸️ Snake Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/dev-minimalism/dev-minimalism/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+![snake gif](https://github.com/dev-minimalism/dev-minimalism/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
