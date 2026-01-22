@@ -5,10 +5,17 @@
 </p>
 
 <p align="center">
+  <a href="https://dev.level-up-together.com:3000"><img src="https://img.shields.io/badge/Beta-Live_Demo-brightgreen?style=flat-square" alt="Beta"/></a>
   <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status"/>
   <img src="https://img.shields.io/badge/Version-0.1.0-blue?style=flat-square" alt="Version"/>
   <img src="https://komarev.com/ghpvc/?username=Level-Up-Together&label=Visitors&style=flat-square" alt="Visitors"/>
 </p>
+
+---
+
+## Demo
+
+**Beta Version**: [https://dev.level-up-together.com:3000](https://dev.level-up-together.com:3000)
 
 ---
 
