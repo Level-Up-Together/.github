@@ -70,6 +70,14 @@
 
 ---
 
+## Contributors
+
+<a href="https://github.com/dev-minimalism">
+  <img src="https://ghchart.rshah.org/dev-minimalism" alt="dev-minimalism's GitHub Contribution Graph"/>
+</a>
+
+---
+
 ## Contributing
 
 현재 Private Side Project로 운영 중입니다. 기여에 관심이 있으시다면 Issue를 통해 문의해 주세요.
