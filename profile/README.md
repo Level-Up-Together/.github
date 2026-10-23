@@ -34,7 +34,7 @@
 <!-- REPOS_START -->
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
-| [product-service](https://github.com/Level-Up-Together/product-service) | - | 오늘 |
+| [product-service](https://github.com/Level-Up-Together/product-service) | - | 3개월 전 |
 | [e2e-test-bot](https://github.com/Level-Up-Together/e2e-test-bot) | - | 4개월 전 |
 <!-- REPOS_END -->
 
