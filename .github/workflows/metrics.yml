@@ -35,6 +35,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_other: yes
           plugin_languages_ignored: ruby, swift   # React Native iOS 폴더(Podfile·Pods) 노이즈 제외
+          plugin_languages_skipped: level-up-together-frontend   # 105MB 대용량 레포, in-depth 분석 시 V8 메모리 오류
 
           # 출력 파일
           filename: github-metrics.svg
