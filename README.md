@@ -69,4 +69,4 @@ gh workflow run Metrics --repo Level-Up-Together/.github   # 교체 후 즉시 �
 
 - 조직 프로필: <https://github.com/Level-Up-Together>
 - 서비스: <https://www.level-up-together.com>
-- 문의: <ceo@pink-spider.io>
+- 문의: <contact@pink-spider.io>

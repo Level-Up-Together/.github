@@ -14,8 +14,8 @@
 <a href="https://www.level-up-together.com">
   <img src="https://img.shields.io/badge/Service-level--up--together.com-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Service"/>
 </a>
-<a href="mailto:ceo@pink-spider.io">
-  <img src="https://img.shields.io/badge/Email-ceo@pink--spider.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:contact@pink-spider.io">
+  <img src="https://img.shields.io/badge/Email-contact@pink--spider.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -170,7 +170,7 @@
 <div align="center">
   <p>👀 <b>Contact & Support</b></p>
   <p>현재 비공개 사이드 프로젝트로 운영 중입니다. 협업·제휴 문의는 이메일로, 공개 저장소의 코드 질문은 해당 저장소의 이슈(Issue)로 남겨주세요.</p>
-  <a href="mailto:ceo@pink-spider.io">
-    <img src="https://img.shields.io/badge/Email-ceo@pink--spider.io-1E3A8A?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:contact@pink-spider.io">
+    <img src="https://img.shields.io/badge/Email-contact@pink--spider.io-1E3A8A?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
