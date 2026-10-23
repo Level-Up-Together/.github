@@ -26,7 +26,7 @@ jobs:
 
           # 언어 통계
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no   # yes 로 두면 렌더링 중 V8 invalid size error 로 실패 (2026-10-23)
           plugin_languages_analysis_timeout: 30
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
@@ -35,7 +35,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_other: yes
           plugin_languages_ignored: ruby, swift   # React Native iOS 폴더(Podfile·Pods) 노이즈 제외
-          plugin_languages_skipped: level-up-together-frontend   # 105MB 대용량 레포, in-depth 분석 시 V8 메모리 오류
 
           # 출력 파일
           filename: github-metrics.svg
