@@ -1,7 +1,9 @@
 # Level-Up-Together/.github
 
-[![Metrics](https://img.shields.io/github/actions/workflow/status/Level-Up-Together/.github/metrics.yml?label=Metrics&logo=githubactions&logoColor=white)](https://github.com/Level-Up-Together/.github/actions/workflows/metrics.yml)
-[![Update README](https://img.shields.io/github/actions/workflow/status/Level-Up-Together/.github/update-readme.yml?label=Update%20README&logo=githubactions&logoColor=white)](https://github.com/Level-Up-Together/.github/actions/workflows/update-readme.yml)
+[![Level Up Together](https://img.shields.io/badge/Level_Up_Together-00E5FF?style=flat-square&logo=github&logoColor=black)](https://github.com/Level-Up-Together)
+[![Pink Spider](https://img.shields.io/badge/Pink_Spider-contact@pink--spider.io-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@pink-spider.io)
+[![Metrics](https://img.shields.io/github/actions/workflow/status/Level-Up-Together/.github/metrics.yml?style=flat-square&label=Metrics&logo=githubactions&logoColor=white)](https://github.com/Level-Up-Together/.github/actions/workflows/metrics.yml)
+[![Update README](https://img.shields.io/github/actions/workflow/status/Level-Up-Together/.github/update-readme.yml?style=flat-square&label=Update%20README&logo=githubactions&logoColor=white)](https://github.com/Level-Up-Together/.github/actions/workflows/update-readme.yml)
 
 [Level Up Together](https://github.com/Level-Up-Together)의 GitHub 조직 프로필과 활동 메트릭을 관리하는 저장소입니다.
 
