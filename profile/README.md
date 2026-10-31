@@ -35,7 +35,7 @@
 | Repository | Description | Updated |
 |:-----------|:------------|:--------|
 | [product-service](https://github.com/Level-Up-Together/product-service) | 미션·상품 관리 백엔드 마이크로서비스 (Java 21, Spring Boot 3.4, GraphQL DGS) | 오늘 |
-| [e2e-test-bot](https://github.com/Level-Up-Together/e2e-test-bot) | 실제 사용자처럼 API를 호출해 시스템 전체를 검증하는 E2E 테스트 봇 (TypeScript, 시뮬레이션 모드 지원) | 2일 전 |
+| [e2e-test-bot](https://github.com/Level-Up-Together/e2e-test-bot) | 실제 사용자처럼 API를 호출해 시스템 전체를 검증하는 E2E 테스트 봇 (TypeScript, 시뮬레이션 모드 지원) | 3일 전 |
 <!-- REPOS_END -->
 
 <br/>
